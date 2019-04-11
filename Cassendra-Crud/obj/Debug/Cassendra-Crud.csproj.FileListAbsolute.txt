@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Cassendra-Crud.exe.config
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Cassendra-Crud.exe
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Cassendra-Crud.pdb
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Cassandra.dll
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\LZ4.dll
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Cassandra.xml
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\obj\Debug\Cassendra-Crud.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\obj\Debug\Cassendra-Crud.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\obj\Debug\Cassendra-Crud.csproj.CopyComplete
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\obj\Debug\Cassendra-Crud.exe
+C:\Users\user\source\repos\Cassendra-Crud\Cassendra-Crud\obj\Debug\Cassendra-Crud.pdb
